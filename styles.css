@@ -1,0 +1,17 @@
+
+h1{
+    color: red;
+}
+
+.um{
+    width: 12pc; 
+}
+
+body{
+    background-color: blanchedalmond;
+}
+
+.links a{
+    text-decoration: none;
+    padding-right: 15px; 
+}
